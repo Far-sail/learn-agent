@@ -1,4 +1,4 @@
-Hi, this is a agent learning project that recording my steps of studying AI agent.
+Hi, this is an agent learning project that recording my steps of studying AI agent.
 Current state: python 3.14 + openai + python-dotenv + gradio
 
 How to start:
